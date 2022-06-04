@@ -1,5 +1,5 @@
 ethical hacking:
-  works on linux only
+  works on linux only;
   an external wireless adapter is required
 
 others:
